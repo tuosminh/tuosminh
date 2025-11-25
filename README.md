@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🌟 **Le Tuan Minh** 🌟
-### 🚀 *Full Stack Developer | AI Enthusiast *
+# **Le Tuan Minh**
+### *Full Stack Developer | AI Enthusiast*
 
 <img src="/Assets/image/AVT-1.jpg" width="400" alt="Le Tuan Minh - Full Stack Developer" style="border-radius: 50%; box-shadow: 0 10px 30px hsla(0, 0.00%, 0.00%, 0.30);" />
 
@@ -11,7 +11,7 @@
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
 ║     "When i win, even my ancestors will chant my name -                      ║
-║      not for victory. but for turning pain into legacy"                      ║
+║      not for victory, but for turning pain into legacy"                      ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -27,32 +27,32 @@
 
 ---
 
-## 🎓 **About Me**
+## **About Me**
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏆 **Achievements**
-- 🎓 **Software Engineering Graduate** - Duy Tan University
-- 🌟 **AI & Full Stack Specialist**
+### **Achievements**
+- **Software Engineering Graduate** - Duy Tan University
+- **AI & Full Stack Specialist**
 
-### 🎯 **Current Focus**
-- 🤖 **AI-Powered Applications**
-- 🎬 **Streaming Platform Development**
-- ☁️ **Cloud-Native Architecture**
+### **Current Focus**
+- **AI-Powered Applications**
+- **Streaming Platform Development**
+- **Cloud-Native Architecture**
 
 </td>
 <td width="50%">
 
-### 🔥 **Quick Facts**
+### **Quick Facts**
 ```yaml
 name: "Le Tuan Minh"
 role: "Backend & AI Developer"
 education: "Duy Tan University"
 specialization: ["AI Integration", "Web Development"]
 passion: "Building scalable solutions"
-motto: "Be kind"
+motto: "Code with purpose, innovate with impact"
 ```
 
 </td>
@@ -61,7 +61,7 @@ motto: "Be kind"
 
 ---
 
-## 🛠️ **Technology Arsenal**
+## **Technology Arsenal**
 
 <div align="center">
 
@@ -92,11 +92,11 @@ motto: "Be kind"
 
 ---
 
-## 🏆 **Featured Projects**
+## **Featured Projects**
 
 <div align="center">
 
-### 🌿 **GreenEduMap - DTUDZ**
+### **GreenEduMap - DTUDZ**
 **Bản đồ học tập – môi trường – năng lượng mở của thành phố thông minh**
 
 <a href="https://github.com/HoDuongQuocHuy278/GreenEduMap---DTUDZ">
@@ -109,17 +109,17 @@ motto: "Be kind"
 <tr>
 <td width="50%">
 
-#### 🌟 **Key Features**
-- 🗺️ **Smart City Mapping** - Interactive learning map for environment & energy
-- 📊 **Data Visualization** - Real-time environmental data tracking
-- 🌱 **Sustainability Focus** - Open energy management platform
-- 🎓 **Educational Platform** - Learning resources for smart cities
-- 🔄 **Open Source** - Community-driven development
+#### **Key Features**
+- **Smart City Mapping** - Interactive learning map for environment & energy
+- **Data Visualization** - Real-time environmental data tracking
+- **Sustainability Focus** - Open energy management platform
+- **Educational Platform** - Learning resources for smart cities
+- **Open Source** - Community-driven development
 
 </td>
 <td width="50%">
 
-#### 🛠️ **Tech Stack**
+#### **Tech Stack**
 - **Frontend**: React, TypeScript, Web3.js
 - **Backend**: Node.js, Express, GraphQL
 - **Blockchain**: Ethereum, Smart Contracts, IPFS
@@ -135,7 +135,7 @@ motto: "Be kind"
 
 <div align="center">
 
-### 🛒 **StreamMart - E-Commerce Platform**
+### **StreamMart - E-Commerce Platform**
 **Modern e-commerce solution with seamless shopping experience**
 
 <a href="https://gitlab.com/tminhhh/streammart.git">
@@ -148,17 +148,17 @@ motto: "Be kind"
 <tr>
 <td width="50%">
 
-#### 🌟 **Key Features**
-- 🛍️ **Product Management** - Comprehensive catalog system
-- 💳 **Payment Integration** - Secure checkout process
-- 📦 **Order Tracking** - Real-time order status updates
-- 👤 **User Accounts** - Personalized shopping experience
-- 🔍 **Search & Filter** - Advanced product discovery
+#### **Key Features**
+- **Product Management** - Comprehensive catalog system
+- **Payment Integration** - Secure checkout process
+- **Order Tracking** - Real-time order status updates
+- **User Accounts** - Personalized shopping experience
+- **Search & Filter** - Advanced product discovery
 
 </td>
 <td width="50%">
 
-#### 🛠️ **Tech Stack**
+#### **Tech Stack**
 - **Frontend**: React Native, TypeScript
 - **Backend**: Laravel, PHP
 - **Database**: MySQL, MongoDB
@@ -174,7 +174,7 @@ motto: "Be kind"
 
 <div align="center">
 
-### 🎬 **TMinhCinema - Movie Booking System**
+### **TMinhCinema - Movie Booking System**
 **Online cinema ticket booking platform with modern UI/UX**
 
 <a href="https://gitlab.com/tminhhh/fe_tminhcinema_deployver2.git">
@@ -187,17 +187,17 @@ motto: "Be kind"
 <tr>
 <td width="50%">
 
-#### 🌟 **Key Features**
-- 🎫 **Ticket Booking** - Easy and fast reservation system
-- 📅 **Showtime Management** - Real-time schedule updates
-- 🎭 **Movie Information** - Detailed film descriptions and trailers
-- 💺 **Seat Selection** - Interactive seat map booking
-- 📱 **Multi-Platform** - Web and mobile support
+#### **Key Features**
+- **Ticket Booking** - Easy and fast reservation system
+- **Showtime Management** - Real-time schedule updates
+- **Movie Information** - Detailed film descriptions and trailers
+- **Seat Selection** - Interactive seat map booking
+- **Multi-Platform** - Web and mobile support
 
 </td>
 <td width="50%">
 
-#### 🛠️ **Tech Stack**
+#### **Tech Stack**
 - **Frontend**: VueJS, TypeScript, Responsive Design
 - **Backend**: Laravel, PHP
 - **Database**: MySQL
@@ -211,7 +211,7 @@ motto: "Be kind"
 
 ---
 
-## 📊 **GitHub Analytics**
+## **GitHub Analytics**
 
 <div align="center">
 
@@ -219,14 +219,14 @@ motto: "Be kind"
 <tr>
 <td width="50%" align="center">
 
-### 📈 **GitHub Statistics**
+### **GitHub Statistics**
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuosminh&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_radius=10)](https://github.com/tuosminh)
 
 </td>
 <td width="50%" align="center">
 
-### 💻 **Top Languages**
+### **Top Languages**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuosminh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=10)](https://github.com/tuosminh)
 
@@ -238,7 +238,7 @@ motto: "Be kind"
 <tr>
 <td width="100%" align="center">
 
-### 🔥 **Contribution Graph**
+### **Contribution Graph**
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tuosminh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F)](https://github.com/tuosminh)
 
@@ -250,7 +250,7 @@ motto: "Be kind"
 <tr>
 <td width="100%" align="center">
 
-### ⚡ **GitHub Streak**
+### **GitHub Streak**
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tuosminh&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF&border_radius=10)](https://git.io/streak-stats)
 
@@ -262,28 +262,28 @@ motto: "Be kind"
 
 ---
 
-## 🌟 **What's Next?**
+## **What's Next?**
 
 <div align="center">
 
 ```mermaid
 graph LR
-    A[🤖 AI Integration] --> B[☁️ Cloud Architecture]
-    B --> C[🌍 Open Source]
-    C --> D[🚀 Innovation]
+    A[AI Integration] --> B[Cloud Architecture]
+    B --> C[Open Source]
+    C --> D[Innovation]
     D --> A
 ```
 
 </div>
 
-- 🌐 **Cloud-Native Applications** - Microservices & Serverless
-- 🤝 **Open Source Contributions** - Community-driven development
-- 🧠 **AI/ML Research** - Next-generation recommendation systems
-- 🎓 **Knowledge Sharing** - Mentoring & Technical Writing
+- **Cloud-Native Applications** - Microservices & Serverless
+- **Open Source Contributions** - Community-driven development
+- **AI/ML Research** - Next-generation recommendation systems
+- **Knowledge Sharing** - Mentoring & Technical Writing
 
 ---
 
-## 📬 **Let's Connect!**
+## **Let's Connect**
 
 <div align="center">
 
@@ -307,11 +307,11 @@ graph LR
 </tr>
 </table>
 
-### **💬 Open for collaboration on:**
-- 🎬 Streaming platform innovations
-- 🤖 AI-powered applications  
-- 🌐 Full-stack web development
-- 🎮 Game development projects
+### **Open for collaboration on:**
+- Streaming platform innovations
+- AI-powered applications  
+- Full-stack web development
+- Game development projects
 
 </div>
 
@@ -319,11 +319,11 @@ graph LR
 
 <div align="center">
 
-### 🎯 **"Innovation through code, impact through collaboration"**
+### **"Innovation through code, impact through collaboration"**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" alt="Footer"/>
 
-⭐️ **Thank you for visiting my profile!** ⭐️  
+**Thank you for visiting my profile**  
 **[Le Tuan Minh](https://github.com/tuosminh) | Building the future, one commit at a time**
 
 </div>
