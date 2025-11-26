@@ -29,7 +29,7 @@
 
 ## **About Me**
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
@@ -65,14 +65,9 @@ motto: "Code with purpose, innovate with impact"
 
 <div align="center">
 
-### **Mobile Development**
-
+### **Frontend Mastery**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-
-### **Frontend Mastery**
-
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -110,7 +105,7 @@ motto: "Code with purpose, innovate with impact"
 
 </div>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
@@ -149,7 +144,7 @@ motto: "Code with purpose, innovate with impact"
 
 </div>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
@@ -166,9 +161,9 @@ motto: "Code with purpose, innovate with impact"
 #### **Tech Stack**
 - **Frontend**: React Native, TypeScript
 - **Backend**: Laravel, PHP
-- **Database**: MySQL
+- **Database**: MySQL, MongoDB
 - **Payment**: Payment Gateway Integration
-- **Deployment**: Cloud Infrastructure
+- **Deployment**: Docker, Cloud Infrastructure
 - **API**: RESTful APIs
 
 </td>
@@ -188,7 +183,7 @@ motto: "Code with purpose, innovate with impact"
 
 </div>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
@@ -203,7 +198,7 @@ motto: "Code with purpose, innovate with impact"
 <td width="50%">
 
 #### **Tech Stack**
-- **Frontend**: VueJS
+- **Frontend**: VueJS, TypeScript, Responsive Design
 - **Backend**: Laravel, PHP
 - **Database**: MySQL
 - **Payment**: Secure payment processing
