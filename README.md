@@ -52,7 +52,7 @@ role: "Backend & AI Developer"
 education: "Duy Tan University"
 specialization: ["AI Integration", "Web Development"]
 passion: "Building scalable solutions"
-motto: "Code with purpose, innovate with impact"
+motto: "Be kind"
 ```
 
 </td>
